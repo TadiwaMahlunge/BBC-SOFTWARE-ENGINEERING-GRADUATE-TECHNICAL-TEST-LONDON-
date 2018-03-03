@@ -20,9 +20,9 @@ ASSUMPTIONS: World size is constant.
   
 Test files have been provided. To pass a new csv file in please make sure it's in the same folder as the source code. Sorry.
 
-To run this code once compiled please run in the following format:
+To run this code once compiled please run arguments in the following format:
 
-java A_Main_Of_Life <<input file>> <<number of iterations wanted>> <<output file>>
+java A_Main_Of_Life ((input file)) ((number of iterations wanted)) ((output file))
 
 Thank you for considering me thus far, I appreciate the opportunity.
 
